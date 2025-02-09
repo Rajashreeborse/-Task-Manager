@@ -1,12 +1,13 @@
-🎯 How It Works:
-Add Tasks: Type in the input field and click "Add Task" to create a new task.
-Complete or Pending: Click the ✔ button to mark a task as completed or pending.
-Delete Tasks: Click the "Delete" button to remove a task.
-Task Filtering: Use the buttons to filter tasks by status (All, Completed, Pending).
-Local Storage: Tasks are saved to localStorage so they persist even after the page reloads.
-📌 Features & Improvements:
-You can add more features like due dates, priority levels, and task categories.
-Improved UI: Add animations and more attractive designs.
-Authentication: Allow users to register and log in to manage their tasks securely.
-This project will help you practice using localStorage, event handling, and dynamic DOM manipulation.
+# Task Manager Web App
+
+A simple **Task Manager** application built with **HTML**, **CSS**, and **JavaScript**. This app helps users manage their tasks by allowing them to add, edit, delete, and filter tasks. It uses **localStorage** to store tasks and persist them across page reloads.
+
+## Features
+
+- **Add Task**: Add a new task to the list.
+- **Mark as Completed**: Mark tasks as completed.
+- **Mark as Pending**: Revert tasks back to pending.
+- **Delete Task**: Remove tasks from the list.
+- **Filter Tasks**: Filter tasks by their status (All, Completed, Pending).
+- **LocalStorage**: Tasks persist even after the page is refreshed.
 
